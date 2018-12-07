@@ -10,6 +10,8 @@ Neste trabalho foram usados conceitos de otimização dinâmica, transformada wa
 
 ### 2. Transformada Wavelet Discreta
 
+
+
 ### 3. Eenergia de Shannon 
 
 ### 4. Thresholds
